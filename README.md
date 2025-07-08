@@ -1,4 +1,4 @@
-# Bloqueo-Automatizados
+# Bloqueo-Automatizado Cloudflare - Trend Vision One
 
 Automatiza el bloqueo de IPs maliciosas detectadas en Cloudflare y su registro en Trend Micro Vision One.
 
