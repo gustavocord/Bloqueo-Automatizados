@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+
+
+# Python caches
+*.pyc
+__pycache__/
+
+# Logs
+cron.log
+
+# Sensitive files
+.env
+blocked_ips.txt
+vt
